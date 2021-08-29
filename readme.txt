@@ -1,4 +1,1 @@
 hello
-world
-and
-everyone
